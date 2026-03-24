@@ -1,6 +1,6 @@
 cask "effortless" do
-  version "0.1.0"
-  sha256 "b077f13bc6d0d8eacf50c64d088519ec2d6d398d6880bfb7052d8a8a0681d93f"
+  version "0.2.0"
+  sha256 "0a0dfb744b548b9daeac251f3ae3d5452e3ef58b73769971ed4b6527b1cfe1ec"
 
   url "https://github.com/iulspop/effortless-attention/releases/download/v#{version}/Effortless.zip"
   name "Effortless"
